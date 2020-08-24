@@ -484,7 +484,6 @@ MonoBehaviour:
   - {r: 0.015686275, g: 0.85882354, b: 1, a: 1}
   - {r: 0, g: 1, b: 0, a: 1}
   - {r: 1, g: 1, b: 0, a: 1}
-  start_and_endSE: {fileID: 8300000, guid: 9ab813a29898f1b4784930b815219ad2, type: 3}
   resultUI: {fileID: 6728286121135194176}
   minMapUI: {fileID: 3394966428125995784}
   minResultUI: {fileID: 7164464479634745095}
@@ -724,7 +723,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 06acc732481415b4292628f2de73f8f7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4968cf343af29934993f2738661cac37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -746,9 +745,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   showPos: {x: 0, y: 100, z: 0}
-  startMoveSpeed: 120
+  startMoveSpeedTime: 2
   startCoinSizeMax: 500
-  endMoveSpeed: 120
+  endMoveSpeedTime: 2
   endCoinSizeMini: 81
   resultUI: {fileID: 6728286121135194176}
 --- !u!95 &220573873664303659

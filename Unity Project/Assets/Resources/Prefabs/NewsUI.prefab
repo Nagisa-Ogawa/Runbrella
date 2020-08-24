@@ -16,6 +16,10 @@ GameObject:
   - component: {fileID: 8489237266390115913}
   - component: {fileID: 5465607242918527100}
   - component: {fileID: 3649256976796493557}
+  - component: {fileID: 2228018871622152880}
+  - component: {fileID: 7415619660197576235}
+  - component: {fileID: 1082596541553900545}
+  - component: {fileID: 8456749412879967822}
   m_Layer: 5
   m_Name: NewsUI
   m_TagString: Untagged
@@ -166,5 +170,53 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e09a888b2bca66f4092581681b35bb1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2228018871622152880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8809787746326162372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30e7d0497153234e870f5622fdd29c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7415619660197576235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8809787746326162372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9d5d1f468294d408ae47ccf1e253a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1082596541553900545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8809787746326162372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d36906c3dc0258409e8a204c85afa26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8456749412879967822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8809787746326162372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7feae49317fcf9f419653721b6d01fc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

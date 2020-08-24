@@ -49,7 +49,6 @@ MonoBehaviour:
   playerNumber: 4
   charType: 01000000010000000300000002000000
   charAttackType: 01000000010000000100000000000000
-  playerRanks: 
   ChooseStages:
   - {fileID: 2896251413385460406, guid: 3325e83337959c246894c79a6d794ed7, type: 3}
   - {fileID: 2896251413385460406, guid: 72a1e4c745366dc4493ab6b30027534a, type: 3}
@@ -65,7 +64,6 @@ MonoBehaviour:
   - {fileID: 2896251413385460406, guid: 61e2b150eb8eda54ca3333f3145406e7, type: 3}
   ChoosedStages: []
   firstCharType: 0
-  firstPlayerNumber: 0
   playerOutlines:
   - {fileID: 2100000, guid: ab42c36b33f7bcd4085f5014384e28dd, type: 2}
   - {fileID: 2100000, guid: 705ad271f4c39b149a1fcd04a4d580c9, type: 2}
@@ -75,25 +73,7 @@ MonoBehaviour:
   canChooseStage_Ishibashi:
   - {fileID: 2896251413385460406, guid: f9264761597f2ee48ba638a38a59f167, type: 3}
   - {fileID: 2896251413385460406, guid: 1b64e8e8d11a6ee4f8c87de7520814b7, type: 3}
-  - {fileID: 2896251413385460406, guid: 1d24ce4a6778543438f144a13f94e629, type: 3}
-  - {fileID: 2896251413385460406, guid: 5e1502dc972642f4787a294baaa71f62, type: 3}
-  - {fileID: 2896251413385460406, guid: 927788b70299c1a4988d178d53947428, type: 3}
-  - {fileID: 2896251413385460406, guid: 4e25770d0d80efd43a75898a9e360770, type: 3}
-  - {fileID: 2896251413385460406, guid: b2d511b22a5163543aaf25225e54bf0c, type: 3}
-  - {fileID: 2896251413385460406, guid: e3c723cbdd2d5c6419875cf17cb4c9ff, type: 3}
-  - {fileID: 2896251413385460406, guid: a139bda6ea9d934478eb5463d79264a9, type: 3}
-  - {fileID: 2896251413385460406, guid: b3b70b5f53ab6fb40a3c783304b5ff46, type: 3}
-  canChooseStage_Mishima:
-  - {fileID: 2896251413385460406, guid: 3b41a1bbd0876534fb47792f19a2e777, type: 3}
-  - {fileID: 2896251413385460406, guid: afe45f1d6bf797f4a9033229460f58fc, type: 3}
-  - {fileID: 2896251413385460406, guid: b7758273558ce8f4cb1385be121e045b, type: 3}
-  - {fileID: 2896251413385460406, guid: 32060c22f81337441bcf6467b2a43ee3, type: 3}
-  - {fileID: 2896251413385460406, guid: d3a5196132f2bf948a60d4acb93af8c7, type: 3}
-  - {fileID: 2896251413385460406, guid: c7988a25be196c14f8a414fb52f98dcc, type: 3}
-  - {fileID: 2896251413385460406, guid: ae4457b362e064540a79a31d71c7380e, type: 3}
-  - {fileID: 2896251413385460406, guid: 36fa8f105da3e244598402b3bda2c256, type: 3}
-  - {fileID: 2896251413385460406, guid: e2bb57cd8131fc045af03768556d157a, type: 3}
-  - {fileID: 2896251413385460406, guid: a0bad54945892bc46ad646fc97e7705b, type: 3}
+  canChooseStage_Mishima: []
   canChooseStage_Osio:
   - {fileID: 2896251413385460406, guid: 3325e83337959c246894c79a6d794ed7, type: 3}
   - {fileID: 2896251413385460406, guid: 72a1e4c745366dc4493ab6b30027534a, type: 3}
